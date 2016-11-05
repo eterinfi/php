@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.php.debug.core.launching.PHPExeLaunchConfigurationType">
+<stringAttribute key="ATTR_FILE" value=""/>
+<stringAttribute key="ATTR_FILE_FULL_PATH" value=""/>
+<stringAttribute key="ATTR_INI_LOCATION" value="C:\xampp\php\php.ini"/>
+<stringAttribute key="ATTR_LOCATION" value="C:\xampp\php\php-win.exe"/>
+</launchConfiguration>
